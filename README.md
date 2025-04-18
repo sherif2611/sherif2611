@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sherif Ibrahim</h1>
 <p align="center">
-  <img src="https://iili.io/31erNEb.jpg" alt="Banner" />
+  <img src="https://iili.io/31wARsI.png" alt="Banner" />
 </p>
 
 <p align="center">

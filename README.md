@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Sherif Ibrahim</h1>
 <p align="center">
-  <img src="https://drive.google.com/file/d/1Xry4UkwCEYvrQu-77IvtyxVPpAF2zh8T/view" alt="Banner" />
+  <img src="https://freeimage.host/i/31wARsI" alt="Banner" />
 </p>
 
 <p align="center">
-  <b>Backend .NET Developer | Final Year CS & AI Student at Benha University</b><br/>
+  <b>Backend .NET Developer | Final Year CS Student at Benha University</b><br/>
   <a href="mailto:sherifebrahim2212@gmail.com">📧 sherifebrahim2212@gmail.com</a> •
   <a href="https://www.linkedin.com/in/sherif-ibrahim-085871232/" target="_blank">LinkedIn</a>
 </p>

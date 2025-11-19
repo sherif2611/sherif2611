@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>Backend .NET Developer | Final Year CS Student at Benha University</b><br/>
+  <b>Backend .NET Developer | Graduated from Benha University</b><br/>
   <a href="mailto:sherifebrahim2212@gmail.com">📧 sherifebrahim2212@gmail.com</a> •
   <a href="https://www.linkedin.com/in/sherif-ibrahim-085871232/" target="_blank">LinkedIn</a>
 </p>
